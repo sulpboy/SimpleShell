@@ -54,6 +54,4 @@ Press `Ctrl+C` to display the command history and exit.
 - Records command execution times using `gettimeofday()`.
 - Maintains a fixed-size history of executed commands.
 
-## Concepts Demonstrated
 
-Unix system calls, process creation and synchronization, pipes, file descriptor redirection, signal handling, and execution-time measurement.
